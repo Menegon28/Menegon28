@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an MSc student in [**Statistics**](https://en.didattica.unipd.it/off/2025/LM/SC/SC3012) with a focus on **Data Science** at the [University of Padua](https://www.unipd.it/en/), passionate about data, AI/ML, and technology
+I'm an MSc student in [**Statistics**](https://en.didattica.unipd.it/off/2025/LM/SC/SC3012) with a focus on **Data Science** at the [University of Padua](https://www.unipd.it/en/), passionate about data, AI/ML, and technology.
 
 My academic interests include **computational statistics**, **statistical modeling**, and **high-dimensional multivariate data analysis**. I also engage with **social statistics**, with my bachelor's thesis focusing on electoral data.  
 I am also interested in **AI/ML** more broadly and keep up with the latest developments in Large Language Model research.  
